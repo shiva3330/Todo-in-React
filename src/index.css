@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body{
+  background-color: rgb(226, 239, 255)
+;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
